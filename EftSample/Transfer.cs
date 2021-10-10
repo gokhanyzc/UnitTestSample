@@ -32,7 +32,7 @@ namespace EftSample
 
             }
 
-            response.IsSuccess = true;
+            response.IsSuccess = true; // deneme
             response.Message = "Transfer operation is successfull.";
 
             return response;
